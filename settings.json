@@ -1,0 +1,42 @@
+[
+  {
+    "name": "LABEL_STUDIO_BASE_DATA_DIR",
+    "value": "/home",
+    "slotSetting": false
+  },
+  {
+    "name": "LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT",
+    "value": "/home",
+    "slotSetting": false
+  },
+  {
+    "name": "LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED",
+    "value": "true",
+    "slotSetting": false
+  },
+  {
+    "name": "PORT",
+    "value": "8081",
+    "slotSetting": false
+  },
+  {
+    "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
+    "value": "1",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_HTTPLOGGING_RETENTION_DAYS",
+    "value": "1",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_WARMUP_PATH",
+    "value": "/user/login",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+    "value": "true",
+    "slotSetting": false
+  }
+]
