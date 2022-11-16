@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'label-studio-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72AC43A2E2A84F11A186EC17946BCD39 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA11D162EC47435B8D075915F843A01D }}
